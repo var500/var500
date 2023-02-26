@@ -3,7 +3,6 @@
 ## I'm a Student, Developer, and Foodie!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about backend development
 - ⚡ Fun fact: I love to trek
 
