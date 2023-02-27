@@ -1,3 +1,12 @@
+
+
+## Listening to 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+
 # Hi there, I'm Varun👋 
 
 ## I'm a Student, Developer, and Foodie!!
@@ -28,13 +37,11 @@
 <img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 <img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px; />
 
-<br />
-<br />
-<div align="center">
+</br>
+</br>
+</br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
 
 
 
