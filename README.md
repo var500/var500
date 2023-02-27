@@ -30,3 +30,6 @@
 
 <br />
 <br />
+
+[![Spotify](https:/novatorem-mocha-six.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
