@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I love to trek
 
 ### My social media:
+<br>
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4)
 [![website](./img/twitter-dark.svg)](https://twitter.com/VarunChodha4)
@@ -21,6 +22,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/varunnnnnnnnnnnnnnn/)<br>
 
 ### Languages and Tools:
+
 <img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
 <img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:20px;" />
@@ -38,7 +40,7 @@
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
