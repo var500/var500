@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I love to trek
 
 ### My social media:
-<br>
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4)
 [![website](./img/twitter-dark.svg)](https://twitter.com/VarunChodha4)
