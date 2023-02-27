@@ -30,6 +30,11 @@
 
 <br />
 <br />
+<div align="center">
 
-[![Spotify](https:/novatorem-mocha-six.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+
 
