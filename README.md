@@ -1,7 +1,4 @@
-
-
-
-# Hi there, I'm Varun👋 
+# Hi there, I'm Varun👋
 
 ## I'm a Student, Developer, and Foodie!!
 
@@ -10,8 +7,8 @@
 - ⚡ Fun fact: I love to trek
 
 ### My social media:
-<br>
 
+<br>
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4) &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/varunchodha) &nbsp;&nbsp;
@@ -25,13 +22,17 @@
 <img align="left" alt="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
 <img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
-<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:20px;" />
-<img align="left" alt="Tailwind" width="36px" height="36" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:20px;" />
+<img align="left" alt="Nextjs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:20px;" />
+<img align="left" alt="Reactjs" width="36px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+<img align="left" alt="ExpressJs" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:20px;" />
+<img align="left" alt="Python" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
+<img align="left" alt="HTML" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
+<img align="left" alt="CSS" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
+
 
 </br><br>
 </br><br>
-
-
 
 # Listening to 🎧
 
@@ -40,6 +41,3 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t5d7sptufc5oxds4ihuez57teu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-
-
