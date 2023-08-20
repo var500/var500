@@ -35,6 +35,9 @@
 <img align="left" alt="Yarn" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Npm" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:20px;" />
 <img align="left" alt="VsCode" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:20px;" />
+<img align="left" alt="arduino" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="padding-right:20px;" />
+<img align="left" alt="raspberrypi" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:20px;" />
+<img align="left" alt="linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:20px;" />
 
 </br><br>
 </br><br>
