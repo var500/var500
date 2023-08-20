@@ -12,14 +12,14 @@
 ### My social media:
 <br>
 
-[![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4)
+
 [![website](./img/twitter-dark.svg)](https://twitter.com/VarunChodha4)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/varunchodha)
+
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/varunchodha)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/varunnnnnnnnnnnnnnn/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/varunnnnnnnnnnnnnnn/)<br>
+
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/varunnnnnnnnnnnnnnn/)
 
 ### Languages and Tools:
 
