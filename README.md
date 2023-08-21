@@ -12,7 +12,7 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4) &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/varunchodha) &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/varunnnnnnnnnnnnnnn/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/varun_here._/)
 
 ### Languages and Tools:
 
@@ -30,6 +30,7 @@
 <img align="left" alt="Postgresql" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
 <img align="left" alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:20px;" />
+<img align="left" alt="solidity" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Python" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
 <img align="left" alt="C++" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;" />
 <img align="left" alt="Yarn" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:20px;" />
