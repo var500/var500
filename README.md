@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Foodie!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn more about backend development
+- 🥅 2024 Goals: Dive Deep into code DSA and Fullstack Development
 - ⚡ Fun fact: I love to trek
 
 ### My social media:
