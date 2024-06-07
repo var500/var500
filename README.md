@@ -13,7 +13,7 @@
 <br>
 
 ![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var500&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var500&langs_count=3&layout=compact)
 
 ### Languages and Tools:
 
