@@ -6,6 +6,10 @@
 - 🥅 2024 Goals: Dive Deep into code DSA and Fullstack Development
 - ⚡ Fun fact: I love to trek
 
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=X&style=social)](https://twitter.com/VarunChodha4) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/varunchodha/) [![Connect via Mail](https://img.shields.io/badge/--mail?label=Mail&logo=GMail&style=social)](mailto:varun5chodha@gmail.com)
+
 <br>
 
 ![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)
