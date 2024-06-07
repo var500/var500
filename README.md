@@ -12,9 +12,9 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/VarunChodha4) &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/varunchodha) &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/varun_here._/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/varun_here._/)-->
 
-![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true) -->
+![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)
 
 ### Languages and Tools:
 
