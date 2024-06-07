@@ -14,8 +14,11 @@
 
 ![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500&show=prs_merged,prs_merged_percentage&hide=contribs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=var500&langs_count=3&layout=donut)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varun500)
 
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varun500) -->
+
+ <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+ 
 ### Languages and Tools:
 
 <img align="left" alt="HTML" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
