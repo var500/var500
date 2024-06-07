@@ -1,8 +1,8 @@
 # Hi there, I'm Varun👋
 
-## I'm a Student, Developer, and Foodie!!
+## I'm a Fullstack Developer by profession and a Foodie by choice!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Work hard, smart and believe in yourself 🧘‍♂️
 - 🥅 2024 Goals: Dive Deep into code DSA and Fullstack Development
 - ⚡ Fun fact: I love to trek
 
