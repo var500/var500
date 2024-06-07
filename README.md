@@ -14,6 +14,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/varunchodha) &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/varun_here._/)
 
+![Varuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=var500)
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
